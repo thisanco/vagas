@@ -1,7 +1,7 @@
 # Desafio de código Backend Elixir
 
-O objetivo deste exercício é analisar sua familiaridade com Elixir e capacidade
-de tirar proveito do poder da linguagem para executar uma tarefa.
+O objetivo deste exercício é verificar sua familiaridade com Elixir e como
+você utiliza o poder da linguagem para executar uma tarefa.
 
 Boa sorte e obrigado por participar!
 

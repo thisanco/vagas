@@ -29,40 +29,40 @@ Crie um script para popular o banco de dados de acordo com os dados abaixo:
 
 ### Serviços
 
-Descrição: Banho
+Descrição: Banho \
 Valor: R$ 50,00
 
-Descrição: Tosa
+Descrição: Tosa \
 Valor: R$ 50,00
 
-Descrição: Consulta Clínica
+Descrição: Consulta Clínica \
 Valor: R$ 100,00
 
 ### Agendamentos
 
-Proprietário: Sid Vicious
-Animal: Rex
-Serviço: Banho
+Proprietário: Sid Vicious \
+Animal: Rex \
+Serviço: Banho \
 Data: Hoje as 15:00
 
-Proprietário: Sid Vicious
-Animal: Rex
-Serviço: Tosa
+Proprietário: Sid Vicious \
+Animal: Rex \
+Serviço: Tosa \
 Data: Hoje as 15:30
 
-Proprietário: Axl Rose
-Animal: Ajudante do Papai Noel
-Serviço: Tosa
+Proprietário: Axl Rose \
+Animal: Ajudante do Papai Noel \
+Serviço: Tosa \
 Data: Hoje as 15:00
 
-Proprietário: Axl Rose
-Animal: Ajudante do Papai Noel
-Serviço: Banho
+Proprietário: Axl Rose \
+Animal: Ajudante do Papai Noel \
+Serviço: Banho \
 Data: Hoje as 15:30
 
-Proprietário: Axl Rose
-Animal: Ajudante do Papai Noel
-Serviço: Consulta Clínica
+Proprietário: Axl Rose \
+Animal: Ajudante do Papai Noel \
+Serviço: Consulta Clínica \
 Data: Hoje as 16:00
 
 

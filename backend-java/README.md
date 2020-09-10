@@ -1,6 +1,6 @@
 # Desafio de Java + JSF + Primefaces + Hibernate
 
-Esse teste foi desenvolvido para testar seus conhecimentos em Java, Maven, JSF, Primefaces e Hibernate.
+Esse teste foi desenvolvido para testar seus conhecimentos em Java, JSF, Primefaces e Hibernate.
 Por favor, tente resolver o teste sem ajuda de ninguém. Lembre-se de que discutiremos a
 solução pessoalmente.
 

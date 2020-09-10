@@ -16,7 +16,7 @@ Boa sorte e obrigado por participar!
 
 ## Regras
 
-  - Você pode gerenciar as dependências e build com gradle ou maven coloque um README com as instruções para rodar o projeto
+  - Você pode gerenciar as dependências e build com gradle ou maven. Lembre-se de colocar um README com as instruções para rodar o projeto
   - O projeto pode ser em qualquer IDE: Eclipse, Intellij ou Netbeans (Amamos o Eclipse S2)
   - Banco de dados a seu critério, damos preferência para PostgreSQL
   - Você deve usar Hibernate, da versão 5 para cima

@@ -27,43 +27,47 @@ Boa sorte e obrigado por participar!
 
 Crie um script para popular o banco de dados de acordo com os dados abaixo:
 
+### Pessoas
+
+| NOME            | DOCUMENTO | DATA DE NASCIMENTO       |
+|-----------------|-----------|--------------------------|
+| Johnny Cash     | 555555555 | 26 de fevereiro de 1932  |
+| Sid Vicious     | 555555555 | 10 de maio de 1957       |
+| Axl Rose        | 555555555 | 6 de fevereiro de 1962   |
+| Joey Ramone     | 555555555 | 19 de maio de 1951       |
+| Bruce Dickinson | 555555555 | 7 de agosto de 1958      |
+| Kurt Cobain     | 555555555 | 20 de fevereiro de 1967  |
+| Elvis Presley   | 555555555 | 17 de agosto de 2008     |
+
+### Animais
+
+| NOME                   | CUSTO MENSAL | TIPO         | DONO            |
+|------------------------|--------------|--------------|-----------------|
+| Pé de Pano             |  199,99      | Cavalo       | Jhonny Cash     |
+| Rex                    |  99,99       | Cachorro     | Sid Vicious     |
+| Ajudante do Papai Noel |  99,99       | Cachorro     | Axl Rose        |
+| Rex                    |  103,99      | Papagaio     | Joey Ramone     |
+| Flora                  |  103,99      | Lhama        | Bruce Dickinson |
+| Dino                   |  177,99      | Iguana       | Kurt Cobain     |
+| Lassie                 |  407,99      | Ornitorrinco | Elvis Presley   |
+
 ### Serviços
 
-Descrição: Banho \
-Valor: R$ 50,00
+| DESCRICAO       | VALOR  |
+|-----------------|--------|
+| Banho           |  50,00 |
+| Tosa            |  50,00 |
+| Consulta Clínica| 100,00 |
 
-Descrição: Tosa \
-Valor: R$ 50,00
+### Agendamentos (Faça as adapações na modelagem que julgar necessárias)
 
-Descrição: Consulta Clínica \
-Valor: R$ 100,00
-
-### Agendamentos
-
-Proprietário: Sid Vicious \
-Animal: Rex \
-Serviço: Banho \
-Data: Hoje as 15:00
-
-Proprietário: Sid Vicious \
-Animal: Rex \
-Serviço: Tosa \
-Data: Hoje as 15:30
-
-Proprietário: Axl Rose \
-Animal: Ajudante do Papai Noel \
-Serviço: Tosa \
-Data: Hoje as 15:00
-
-Proprietário: Axl Rose \
-Animal: Ajudante do Papai Noel \
-Serviço: Banho \
-Data: Hoje as 15:30
-
-Proprietário: Axl Rose \
-Animal: Ajudante do Papai Noel \
-Serviço: Consulta Clínica \
-Data: Hoje as 16:00
+| PROPIRETARIO       | ANIMAL                 | SERVICO          |     DATA      |
+|--------------------|------------------------|------------------|---------------|
+| Sid Vicious        | Rex                    | Banho            | Hoje as 15:00 |
+| Sid Vicious        | Rex                    | Tosa             | Hoje as 15:30 |
+| Axl Rose           | Ajudante do Papai Noel | Tosa             | Hoje as 15:00 |
+| Axl Rose           | Ajudante do Papai Noel | Banho            | Hoje as 15:30 |
+| Axl Rose           | Ajudante do Papai Noel | Consulta Clinica | Hoje as 16:00 |
 
 
 ## Questões - Colocar somente as querys
